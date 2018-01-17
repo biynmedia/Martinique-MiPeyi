@@ -1,0 +1,8 @@
+{
+  "name": "martinique-mipeyi",
+  "app_id": "82e358f5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
